@@ -5,46 +5,46 @@
 
                   ~ matthewcocco */
 
-.education-listing .heading {
-    font-size:0.75em;
-    margin-top:0;
-}
 
-.work-listing > p > strong {
-    font-size:1.1em;
-}
+
+.education-listing .heading {
+    font-size: 0.75em;
+    margin-top: 0;
+ }
+
+.work-listing > p > strong {font-size: 1.1em;}
 
 a {
     text-decoration: none;
     color: #0277bd;
-}
+ }
 
 footer {
-    width:80%;
-    font-family:"Open Sans", sans-serif;
-    font-size:0.75em;
+    width: 80%;
+    font-family: "Open Sans", sans-serif;
+    font-size: 0.75em;
     text-align: right;
-    margin:2em;
-}
+    margin: 2em;
+ }
 
 .print-button {
-    color:white;
-    background:#0277bd;
-    padding:1em;
-    margin:2em;
-    transition:all 0.4s ease;
-}
+    color: white;
+    background: #0277bd;
+    padding: 1em;
+    margin: 2em;
+    transition: all 0.4s ease;
+ }
 
-.print-button:hover {
-    text-shadow:0px 0px 2px white;
-    background:#04aaff;
-    transition:all 0.4s ease;
-    cursor:pointer;
-}
+    .print-button:hover {
+        text-shadow: 0px 0px 2px white;
+        background: #04aaff;
+        transition: all 0.4s ease;
+        cursor: pointer;
+     }
 
-.address-list {
-    vertical-align:text-top;
-}
+.address-list {vertical-align: text-top;}
+
+
 
 @media screen, projection {
     .header-text p {
@@ -53,15 +53,12 @@ footer {
     .header-text p.subtitle {
         font-size:1em;
     }
-
     .show-for-print {
         display:none;
     }
-
     .hide-for-print {
         display:all;
     }
-
     .header-content {
         margin-top: 3em;
     }
@@ -71,15 +68,12 @@ footer {
     footer {
         display:none;
     }
-
     .show-for-print {
         display:all;
     }
-
     .hide-for-print {
         display:none;
     }
-
     p.show-for-print {
         font-size:0.5em;
         font-family:"Open Sans" sans-serif;
@@ -87,7 +81,6 @@ footer {
         margin-top:20em;
         bottom:2em;
     }
-
     header.show-for-print {
         margin-top:5em;
         padding-top:4em;

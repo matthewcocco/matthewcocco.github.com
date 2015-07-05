@@ -1,0 +1,78 @@
+/* styles dot css for matthewcocco.com */
+
+html {
+	background:url("../img/retina_wood.png");
+}
+
+p {
+	font-family:"Lato", sans-serif;
+}
+
+/* rounded profile image */
+
+.name {
+	font-weight: lighter;
+}
+
+.name-emphasis {
+	font-weight: normal;
+}
+
+.contact-links {
+	list-style-type:none;
+	/*text-align:center;*/
+}
+
+.contact-links li {
+	text-transform:uppercase;
+	display:inline;
+	padding:1rem;
+}
+
+img.face {
+	border-radius:125px;
+	width:250px;
+	margin:2em;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+	border: 5px solid black;
+}
+
+/* hacky, makes links at bottom of card blue*/
+.card-action a {
+	transition:all 0.75s ease !important;
+	color:#45B3E0 !important;
+	background-color:white;
+	padding:1em;
+	border-radius:8px;
+}
+.card-action a:hover {
+	color:white !important;
+	background-color:#45B3E0;
+	transition:all 0.5s ease !important;
+}
+
+p.studies, p.abroad, p.work {
+	font-size:1.5em;
+	padding-top:1em;
+}
+p.work {
+	padding-bottom:1em;
+}
+
+.major-its {
+	color:green;
+	font-weight:bold;
+}
+
+.school-utd {
+	color:orange;
+	font-weight:bold;
+}
+
+footer {
+	text-align:center;
+	font-size:0.75em;
+	margin:2em;
+}

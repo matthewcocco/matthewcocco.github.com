@@ -1,0 +1,156 @@
+{
+  "basics": {
+    "name": "Matthew Cocco",
+    "label": "Student/Developer seeking technical internship",
+    "picture": "",
+    "email": "hello@matthewcocco.com",
+    "phone": "+1 (512) 553-5252",
+    "website": "http://matthewcocco.com",
+    "summary": "Information Technology and Systems undergraduate seeking technical internship",
+    "location": {
+      "address": "5609 Spurflower Drive",
+      "postalCode": "TX 78759",
+      "city": "Austin",
+      "countryCode": "US",
+      "region": "Texas"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "thematthewcocco",
+        "url": "http://twitter.com/thematthewcocco"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "matthewcocco",
+        "url": "http://linkedin.com/in/matthewcocco"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "RadioUTD",
+      "position": "Systems Administrator",
+      "website": "http://radioutd.com",
+      "startDate": "2013-09-01",
+      "endDate": "2015-07-01",
+      "summary": "IT Support for team of 60+.",
+      "highlights": [
+        "Maintained 99.9% uptime of WordPress website and ShoutCast streaming server.",
+        "Supported legacy systems and developed custom PHP backend for management team of 5 and DJ team of 68.",
+        "Performed data backups and disaster recovery operations.",
+        "Determined sources of web page or server problems, and took action to correct such problems.",
+        "Reviewed and updated page content and links in a timely manner using appropriate tools."
+      ]
+    },
+    {
+      "company": "EGILIA Germany",
+      "position": "Web Designer/Developer, Summer Intern",
+      "website": "http://egilia.de",
+      "startDate": "2013-07-01",
+      "endDate": "2015-08-15",
+      "summary": "Summer intern in german-speaking office, specializing in process re-engineering and SEO.",
+      "highlights": [
+        "Developed python script to automate collection of google search rankings, eliminating a tedious two-hour-each-week task.",
+        "Enabled collection of search ranking data into a spreadsheet to be run on a daily basis instead of weekly, improving insights into change in rankings over time.",
+        "Interpreted results from and recommended improvements to Google AdWords campaigns.",
+        "Developed landing pages for products using the ZURB Foundation Framework (HTML/CSS/JS), in German.",
+        "Wrote and published press releases in German."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Chi Phi Fraternity Risk Manager",
+      "position": "",
+      "website": "http://chiphiutd.com/",
+      "startDate": "2014-01-01",
+      "endDate": "2015-07-28",
+      "summary": "Assessed, pre-empted, and mitigated risks for college social fraternity of 60-80 members. Elected for 2 consecutive terms.",
+      "highlights": [
+        "Planned, organized, secured, and executed service and social events for groups of 60-80 members and 40-500 guests",
+        "Gathered risk­-related information from internal and external resources, created reports for other officers.",
+        "Documented and ensured communication of risk assessments.",
+        "Developed and implemented risk-assessment models and methodologies, including training materials for organization members.",
+        "Developed and recommended strategies to reduce and mitigate risk.",
+        "Completed and filed paperwork as necessary to maintain status as accredited student organization."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Texas at Dallas",
+      "area": "Information Technology and Systems",
+      "studyType": "Bachelor of Science",
+      "startDate": "2012-08-22",
+      "endDate": "2017-05-15",
+      "gpa": "4.0 in-major, 3.033 overall",
+      "courses": [
+        "MIS3100 - Professional Development",
+        "MIS3300 - Introduction to Management Information Systems",
+        "MIS4300 - Database Fundamentals",
+        "MIS4312 - Mobile Web Application Development"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best App Submission / First Place",
+      "date": "2013-06-04",
+      "awarder": "Hack4Austin",
+      "summary": "Awarded for best submission to Hack4Austin on National Day of Civic Hacking. In partnership with local nonprofit Kids In a New Groove, to improve personnel and reporting processes. Developed a prototype application using the Ionic framework (HTML5, AngularJS and Apache Cordova) to target Android and iOS devices as well as web browsers, enabling volunteer music teachers to create, record, and update information."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Journeyman",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "PHP",
+        "SQL",
+        "Twitter Bootstrap",
+        "ZURB Foundation"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Journeyman",
+      "keywords": [
+        "Python",
+        "OpenCV",
+        "Scripting",
+        "Automation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "German",
+      "fluency": "Fluent spoken, moderate written"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Process Optimization",
+      "keywords": [
+        "efficiency",
+        "eliminating friction"
+      ]
+    },
+    {
+      "name": "Gaming",
+      "keywords": [
+        "CS:GO",
+        "Hearthstone",
+        "Dishonored"
+      ]
+    }
+  ]
+}

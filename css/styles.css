@@ -32,6 +32,8 @@ a {border-radius:5px;}
 
 .contact-links li:hover a, a:hover {color: white;}
 
+.about { margin: 0 2em 0 2em;}
+
 a:hover {text-shadow:2px 0px black;}
 
 a, a:hover {transition:all 0.3s ease;}

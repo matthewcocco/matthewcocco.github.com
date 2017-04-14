@@ -3933,15 +3933,25 @@
 	ul.interests, .face-contact-icons {
 		text-decoration:none; 
 		list-style-type:none;
+		text-align:center;
+	}
+
+	.face-contact-icons {
+		float:right;
+		margin:0 0 0 -143px;
+		padding:0;
 	}
 
 	.interests li {
 		display:inline-block;
 		padding:1em;
 		margin:0.5em;
-		border:1px white solid;
 		border-radius:3px;
 		max-width:95%;
+	}
+
+	.interests .bordered {
+		border:1px white solid;
 	}
 
 	.interests p {
@@ -3959,4 +3969,30 @@
 
 	.no-border {
 		border:none;
+	}
+
+	/* custom anim */
+
+	.fa {
+		padding:4px;
+		transition: background-color .2s ease, color .2s ease !important;
+		border-radius: 2px;
+	}
+	.fa:hover {
+		transition: background-color .2s ease, color .2s ease !important;
+	}
+
+	.fa-linkedin:hover {
+		background-color:#0077B5;
+	}
+	.fa-twitter:hover {
+		color:#1DA1F2;
+		/*background-color:white;*/
+	}
+	.fa-github:hover {
+		color:black;
+		background-color:white;
+	}
+	.fa-envelope:hover {
+		color:orange;
 	}
